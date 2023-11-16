@@ -31,10 +31,26 @@ Provide step-by-step instructions on how to install and set up your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/muhzulfikar/AR-LearnVowelWithAR.git
 
-# Change directory
-cd yourproject
+# Or Download on
+https://github.com/muhzulfikar/AR-LearnVowelWithAR
 
-# Install dependencies
-npm install
+# Install Apk
+Open the .apk file on Android device. then install
+
+# Notification
+If a permission notification appears, allow it to take pictures and videos
+
+## Tutorial
+
+1. Download Marker by clicking the "Link Marker" button
+2. Click play button
+3. Point the camera at the marker
+
+
+## Team
+Muhammad Zulfikar Ikhsan
+Bagus Pahlefi
+Rifqi Luthfian
+Adhitia Dharma Putri
