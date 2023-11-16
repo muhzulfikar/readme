@@ -29,18 +29,22 @@ Include screenshots, gifs, or a link to a live demo of your project.
 
 Provide step-by-step instructions on how to install and set up your project.
 
-```bash
 # Clone the repository
+```bash
 git clone https://github.com/muhzulfikar/AR-LearnVowelWithAR.git
-
+```
 # Or Download on
+```bash
 https://github.com/muhzulfikar/AR-LearnVowelWithAR
-
+```
 # Install Apk
+```bash
 Open the .apk file on Android device. then install
-
+```
 # Notification
+```bash
 If a permission notification appears, allow it to take pictures and videos
+```
 
 ## Tutorial
 
