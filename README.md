@@ -54,7 +54,7 @@ If a permission notification appears, allow it to take pictures and videos
 
 
 ## Team
-Muhammad Zulfikar Ikhsan
-Bagus Pahlefi
-Rifqi Luthfian
-Adhitia Dharma Putri
+1. Muhammad Zulfikar Ikhsan
+2. Bagus Pahlefi
+3. Rifqi Luthfian
+4. Adhitia Dharma Putri
