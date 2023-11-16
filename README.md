@@ -39,7 +39,7 @@ https://github.com/muhzulfikar/AR-LearnVowelWithAR
 ```
 3. Install Apk
 ```bash
-Open the .apk file on Android device. then install
+Open the .apk file on Android device then install
 ```
 4. Notification
 ```bash
